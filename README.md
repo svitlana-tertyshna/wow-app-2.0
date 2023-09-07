@@ -1,6 +1,6 @@
 # The WoW App 2.0 (Kotlin edition) 🌦️
 > The Wow 2.0 is also an Android application that allows users to check the weather in different cities, but with __*new fiches*__ like local time & date in the chosen city, and automatically showing the weather in your current location (if you give permit).
-<img src="wow2_exsample.gif.mp4" alt="How the app works" height="200px">
+<img src="wow2.gif" alt="How the app works" height="400px">
 
 ## 🎯 Technologies Used
 
