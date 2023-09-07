@@ -27,7 +27,7 @@
 ## 🔧 Functionality
 📱**Main Screen:** The app opens to a main screen where users can input the city name they want to check the weather for or <u>if the user gives a permit it shows the weather in the current location.</u>
 
-🌍**Weather Data Retrieval:** After entering a city name and clicking "Gey weather" the app sends a request to an external weather API to retrieve weather data for the specified city.
+🌍**Weather Data Retrieval:** After entering a city name and clicking "Get weather" the app sends a request to an external weather API to retrieve weather data for the specified city.
 
 ☀️**Display Weather Information:**
 - City name & __*initials of the country*__
